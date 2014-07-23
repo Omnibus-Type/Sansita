@@ -91,7 +91,7 @@ Latin Extended-A   | U+0100-U+017F
       * Single Substitution
       * Ligature Substitution
   - GPOS:
-    * cpsp Capital Spacing
+    * **cpsp** Capital Spacing
 
 **07 Sept 2011 (Pablo Cosgaya & Igino Marini) Sansita v1.001.**
 - Initial Release as 'Sansita One'
