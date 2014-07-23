@@ -52,9 +52,9 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **27 Dec 2013 (Pablo Cosgaya & Nicolas Silva) Sansita v1.004.**
-1. Expanded in order to support Adobe Latin 3
-2. Improved CFF hint (AFDK Autohint 2.4)
-3. Updating hinting with ttfautohint (v0.97)
+- Expanded in order to support Adobe Latin 3
+- Improved CFF hint (AFDK Autohint 2.4)
+- Updating hinting with ttfautohint (v0.97)
 
 **17 Dec 2012 (Pablo Cosgaya & Nicolas Silva) Sansita v1.003.**
 Initial released as 'Sansita family'
