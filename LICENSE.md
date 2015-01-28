@@ -1,6 +1,5 @@
 Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),
-Copyright (c) 2010, Igino Marini. (www.ikern.com|mail@iginomarini.com),
-with Reserved Font Names **Sansita** and **Sansita One**.
+Copyright (c) 2010, Igino Marini. (www.ikern.com|mail@iginomarini.com).
 
 
 

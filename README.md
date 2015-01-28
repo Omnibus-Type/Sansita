@@ -5,7 +5,7 @@
 
 Sansita is a tasty new [Omnibus Type](http://omnibus-type.com/) font designed by Pablo Cosgaya. The flavor of Sansita's lowercase explores the relationship between typography and calligraphy. The elegance of Sansita's uppercase makes this an excellent choice for packaging, brief texts, branding and slogans.
 
-![Sample of Sansita Family.](Sansita.gif "Sansita Family")
+![Sample of Sansita Family.](SRC/Sansita.gif "Sansita Family")
 
 ####Sansita Family contains:
 * regular/italic
@@ -22,7 +22,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Sansita' and 'Sansita One'
+Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
