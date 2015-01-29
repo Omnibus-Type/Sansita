@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="baraccentlong" format="1">
+  <advance width="785"/>
+  <outline>
+    <contour>
+      <point x="90" y="360" type="line" smooth="yes"/>
+      <point x="46" y="360"/>
+      <point x="13" y="326"/>
+      <point x="12" y="281" type="curve" smooth="yes"/>
+      <point x="12" y="276"/>
+      <point x="11" y="266"/>
+      <point x="12" y="257" type="curve"/>
+      <point x="682" y="257" type="line" smooth="yes"/>
+      <point x="745" y="257"/>
+      <point x="773" y="295"/>
+      <point x="773" y="335" type="curve" smooth="yes"/>
+      <point x="773" y="345"/>
+      <point x="771" y="353"/>
+      <point x="771" y="360" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

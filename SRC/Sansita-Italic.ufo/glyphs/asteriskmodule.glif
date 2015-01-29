@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asteriskmodule" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="286" y="495" type="line"/>
+      <point x="310" y="544"/>
+      <point x="329" y="603"/>
+      <point x="329" y="646" type="curve" smooth="yes"/>
+      <point x="329" y="675"/>
+      <point x="320" y="697"/>
+      <point x="289" y="697" type="curve" smooth="yes"/>
+      <point x="274" y="697"/>
+      <point x="258" y="692"/>
+      <point x="243" y="683" type="curve"/>
+      <point x="232" y="496" type="line"/>
+    </contour>
+  </outline>
+</glyph>

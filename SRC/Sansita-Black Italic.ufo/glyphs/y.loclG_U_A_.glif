@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.loclGUA" format="1">
+  <advance width="605"/>
+  <outline>
+    <contour>
+      <point x="378" y="510" type="line"/>
+      <point x="331" y="246" type="line" smooth="yes"/>
+      <point x="323" y="202"/>
+      <point x="304" y="143"/>
+      <point x="266" y="143" type="curve" smooth="yes"/>
+      <point x="251" y="143"/>
+      <point x="241" y="151"/>
+      <point x="241" y="183" type="curve" smooth="yes"/>
+      <point x="241" y="213"/>
+      <point x="250" y="252"/>
+      <point x="264" y="318" type="curve" smooth="yes"/>
+      <point x="313" y="534" type="line"/>
+      <point x="65" y="510" type="line"/>
+      <point x="41" y="358" type="line" smooth="yes"/>
+      <point x="31" y="299"/>
+      <point x="17" y="221"/>
+      <point x="17" y="178" type="curve" smooth="yes"/>
+      <point x="17" y="91"/>
+      <point x="74" y="58"/>
+      <point x="150" y="58" type="curve" smooth="yes"/>
+      <point x="215" y="58"/>
+      <point x="279" y="81"/>
+      <point x="319" y="122" type="curve"/>
+      <point x="289" y="-58"/>
+      <point x="249" y="-126"/>
+      <point x="198" y="-126" type="curve" smooth="yes"/>
+      <point x="184" y="-126"/>
+      <point x="173" y="-124"/>
+      <point x="173" y="-101" type="curve" smooth="yes"/>
+      <point x="173" y="-83"/>
+      <point x="180" y="-70"/>
+      <point x="198" y="-49" type="curve"/>
+      <point x="168" y="-12"/>
+      <point x="118" y="0"/>
+      <point x="72" y="0" type="curve" smooth="yes"/>
+      <point x="5" y="0"/>
+      <point x="-53" y="-26"/>
+      <point x="-53" y="-88" type="curve" smooth="yes"/>
+      <point x="-53" y="-189"/>
+      <point x="103" y="-200"/>
+      <point x="195" y="-200" type="curve" smooth="yes"/>
+      <point x="432" y="-200"/>
+      <point x="505" y="-87"/>
+      <point x="547" y="135" type="curve" smooth="yes"/>
+      <point x="623" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="510" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

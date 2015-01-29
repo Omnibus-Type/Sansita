@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="1">
+  <advance width="304"/>
+  <outline>
+    <component base="circumflex" xOffset="-17" yOffset="101"/>
+    <contour>
+      <point x="239" y="660" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

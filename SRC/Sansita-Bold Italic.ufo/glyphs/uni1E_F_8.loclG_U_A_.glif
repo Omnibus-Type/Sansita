@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EF8.loclGUA" format="1">
+  <advance width="684"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="tilde.case" xOffset="162"/>
+  </outline>
+</glyph>

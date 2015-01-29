@@ -51,6 +51,14 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**28 January 2015 (Nicolas Silva) Sansita v1.005**  
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- Added Family Alignment Zones
+
 **27 Dec 2013 (Pablo Cosgaya & Nicolas Silva) Sansita v1.004.**
 - Expanded in order to support Adobe Latin 3
 - Improved CFF hint (AFDK Autohint 2.4)
