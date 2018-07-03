@@ -274,7 +274,7 @@ verticalStems = (
 125
 );
 weight = Light;
-weightValue = 109;
+weightValue = 110;
 xHeight = 510;
 },
 {
@@ -287,6 +287,7 @@ alignmentZones = (
 );
 ascender = 700;
 capHeight = 660;
+custom = Extra;
 customParameters = (
 {
 name = typoAscender;
@@ -336,11 +337,13 @@ horizontalStems = (
 );
 id = "8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D";
 italicAngle = 11;
+name = ExtraBold;
 verticalStems = (
 210,
 197,
 218
 );
+weight = Bold;
 weightValue = 197;
 xHeight = 510;
 },
@@ -354,6 +357,7 @@ alignmentZones = (
 );
 ascender = 700;
 capHeight = 660;
+custom = Black;
 customParameters = (
 {
 name = typoAscender;
@@ -401,6 +405,7 @@ horizontalStems = (
 85,
 60
 );
+iconName = Bold;
 id = "C4C1D9D9-3F21-4BC7-A2AB-A5431E2D31D1";
 italicAngle = 11;
 verticalStems = (
@@ -408,7 +413,6 @@ verticalStems = (
 236,
 263
 );
-weight = Bold;
 weightValue = 240;
 xHeight = 510;
 }
@@ -52759,8 +52763,7 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 );
 interpolationWeight = 110;
 instanceInterpolations = {
-"8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D" = 0.01136;
-UUID0 = 0.98864;
+UUID0 = 1;
 };
 isItalic = 1;
 name = Italic;
@@ -52793,8 +52796,8 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 );
 interpolationWeight = 153;
 instanceInterpolations = {
-"8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D" = 0.5;
-UUID0 = 0.5;
+"8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D" = 0.49425;
+UUID0 = 0.50575;
 };
 isBold = 1;
 isItalic = 1;
@@ -52827,10 +52830,9 @@ name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --stem-width-mode=sss";
 }
 );
-interpolationWeight = 196;
+interpolationWeight = 197;
 instanceInterpolations = {
-"8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D" = 0.98864;
-UUID0 = 0.01136;
+"8C7E3CD8-8122-4AAB-8613-74D9DEE9A67D" = 1;
 };
 isItalic = 1;
 linkStyle = ExtraBold;

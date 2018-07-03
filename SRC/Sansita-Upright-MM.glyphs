@@ -269,6 +269,7 @@ horizontalStems = (
 70,
 60
 );
+iconName = Light;
 id = UUID0;
 userData = {
 GSOffsetHorizontal = "-74";
@@ -280,8 +281,7 @@ verticalStems = (
 109,
 125
 );
-weight = Light;
-weightValue = 109;
+weightValue = 110;
 xHeight = 510;
 },
 {
@@ -294,6 +294,7 @@ alignmentZones = (
 );
 ascender = 700;
 capHeight = 660;
+custom = Extra;
 customParameters = (
 {
 name = typoAscender;
@@ -339,6 +340,7 @@ horizontalStems = (
 60
 );
 id = "7A18FD7C-8538-4E93-8010-D52488023CDD";
+name = ExtraBold;
 userData = {
 GSOffsetHorizontal = "-84";
 GSOffsetProportional = 1;
@@ -349,6 +351,7 @@ verticalStems = (
 194,
 228
 );
+weight = Bold;
 weightValue = 194;
 xHeight = 510;
 },
@@ -362,6 +365,7 @@ alignmentZones = (
 );
 ascender = 700;
 capHeight = 660;
+custom = Black;
 customParameters = (
 {
 name = typoAscender;
@@ -409,6 +413,7 @@ horizontalStems = (
 76,
 60
 );
+iconName = Bold;
 id = "508D1370-0BED-4DB0-A4B4-D9F3BBD09B88";
 userData = {
 GSOffsetHorizontal = "-90";
@@ -420,7 +425,6 @@ verticalStems = (
 240,
 284
 );
-weight = Bold;
 weightValue = 240;
 xHeight = 510;
 }
@@ -48432,8 +48436,7 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 );
 interpolationWeight = 110;
 instanceInterpolations = {
-"7A18FD7C-8538-4E93-8010-D52488023CDD" = 0.01176;
-UUID0 = 0.98824;
+UUID0 = 1;
 };
 name = Regular;
 },
@@ -48465,8 +48468,8 @@ value = "--default-script=latn --fallback-script=latn --windows-compatibility --
 );
 interpolationWeight = 153;
 instanceInterpolations = {
-"7A18FD7C-8538-4E93-8010-D52488023CDD" = 0.51765;
-UUID0 = 0.48235;
+"7A18FD7C-8538-4E93-8010-D52488023CDD" = 0.5119;
+UUID0 = 0.4881;
 };
 isBold = 1;
 name = Bold;
@@ -48498,10 +48501,9 @@ name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --stem-width-mode=sss";
 }
 );
-interpolationWeight = 196;
+interpolationWeight = 194;
 instanceInterpolations = {
-"508D1370-0BED-4DB0-A4B4-D9F3BBD09B88" = 0.04348;
-"7A18FD7C-8538-4E93-8010-D52488023CDD" = 0.95652;
+"7A18FD7C-8538-4E93-8010-D52488023CDD" = 1;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
