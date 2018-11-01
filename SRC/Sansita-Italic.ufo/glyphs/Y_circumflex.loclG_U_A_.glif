@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ycircumflex.loclGUA" format="1">
-  <advance width="603"/>
-  <outline>
-    <component base="Y.loclGUA"/>
-    <component base="circumflex.case" xOffset="137"/>
-  </outline>
-</glyph>

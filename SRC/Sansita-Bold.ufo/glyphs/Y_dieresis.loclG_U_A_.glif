@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ydieresis.loclGUA" format="1">
-  <advance width="645"/>
-  <outline>
-    <component base="Y.loclGUA"/>
-    <component base="dieresis.case" xOffset="128"/>
-  </outline>
-</glyph>

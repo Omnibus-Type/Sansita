@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ygrave.loclGUA" format="1">
-  <advance width="603"/>
-  <outline>
-    <component base="Y.loclGUA"/>
-    <component base="grave.case" xOffset="119"/>
-  </outline>
-</glyph>
