@@ -22,7 +22,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -38,9 +38,9 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 
 ### Sansita is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 			U+0100-U+017F
+* Latin Extended-A 		U+0100-U+017F
 
 **Character map to support MS Codepages:**
 * 1252 Latin-1
@@ -51,7 +51,11 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**28 January 2015 (Nicolas Silva) Sansita v1.005**  
+**31 October 2018 (Omnibus-Type) Sansita v1.006**  
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
+
+**28 January 2015 (Omnibus-Type) Sansita v1.005**  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable Mode
@@ -59,12 +63,12 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 - Updates CFF and TTF hinting
 - Added Family Alignment Zones
 
-**27 Dec 2013 (Pablo Cosgaya & Nicolas Silva) Sansita v1.004.**
+**27 Dec 2013 (Omnibus-Type) Sansita v1.004.**
 - Expanded in order to support Adobe Latin 3
 - Improved CFF hint (AFDK Autohint 2.4)
 - Updating hinting with ttfautohint (v0.97)
 
-**17 Dec 2012 (Pablo Cosgaya & Nicolas Silva) Sansita v1.003.**
+**17 Dec 2012 (Omnibus-Type) Sansita v1.003.**
 Initial released as 'Sansita family'
 - This release supports the following Unicode ranges:
 
@@ -119,7 +123,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.ikern.com  
 **D:** Spacing and Kerning  
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
