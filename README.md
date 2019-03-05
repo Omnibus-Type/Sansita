@@ -7,7 +7,7 @@ Sansita is a tasty new [Omnibus Type](http://omnibus-type.com/) font designed by
 
 ![Sample of Sansita Family.](SRC/Sansita.gif "Sansita Family")
 
-####Sansita Family contains:
+#### Sansita Family contains:
 * regular/italic
 * bold/bolditalic
 * extrabold/extrabolditalic
