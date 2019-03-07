@@ -9,10 +9,12 @@ Sansita is a tasty new [Omnibus Type](http://omnibus-type.com/) font designed by
 ![Sample of Sansita Family.](sources/Sansita-02.png "Sansita Family")
 
 #### Sansita Family contains:
-* regular/italic
-* bold/bolditalic
-* extrabold/extrabolditalic
-* black/blackitalic
+* light / light italic
+* regular / italic
+* medium / medium italic
+* bold / bold italic
+* extrabold / extrabold italic
+* black / black italic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -52,7 +54,8 @@ Sansita and Sansita One was designed to be used simultaneously in print and digi
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**31 October 2018 (Omnibus-Type) Sansita v1.006**  
+**31 October 2018 (Omnibus-Type) Sansita v1.006**
+- New weights: light, light italic, medium and medium italic 
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
 
