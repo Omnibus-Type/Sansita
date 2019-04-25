@@ -1,13 +1,9 @@
 # Sansita family
 
-**Omnibus-Type**  
-*SIL Open Font License, 1.1*
-
 **Cosgaya & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
 *12 fonts, 871 glyphs each variant.*
 *Tipos Latinos 2014*
-
 
 Sansita is a tasty typeface family, with 6 weight variants, plus matching italics. Each stroke weight has its own allure, as Sansita explores the borders between typography, calligraphy and lettering. It is ideal for any short text destined to strike. Its vigorous uppercases makes it an excellent choice for branding, packaging, slogans and book covers. It was designed by Pablo Cosgaya with the assistance of Ana Sanfelippo and the Omnibus-Type Team.
 
