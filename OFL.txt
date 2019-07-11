@@ -1,4 +1,4 @@
-Copyright (c) 2019, The Sansita Project Authors (https://github.com/Omnibus-Type/Sansita)
+Copyright 2019 The Sansita Project Authors (https://github.com/Omnibus-Type/Sansita)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
